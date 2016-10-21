@@ -1,0 +1,84 @@
+# Numerous always-ignore extensions
+*.bak
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+
+# OS or Editor folders
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+.cache
+.project
+.settings
+.tmproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+
+# Dreamweaver added files
+_notes
+dwsync.xml
+
+# Komodo
+*.komodoproject
+.komodotools
+
+# Espresso
+*.esproj
+*.espressostorage
+
+# Rubinius
+*.rbc
+
+# Folders to ignore
+.hg
+.svn
+.CVS
+.idea
+
+.env.dev.php
+.env.staging.php
+.env.production.php
+
+build-it.php
+build-it-parse.php
+phpmyadmin
+nightly.php
+.env.prod.php
+
+# project related
+.sass-cache/*
+.gulp-tmp/*
+
+.vagrant/*
+puphpet/*
+Vagrantfile
+node_modules/*
+
+storage/cms/cache/*
+storage/cms/disabled.json
+storage/framework/sessions/*
+storage/framework/cache/*
+storage/framework/services.json
+storage/logs/*
+storage/temp/*
+
+config/app.php
+config/database.php
+.env
+adminer
+.htaccess
+/themes/vitrima/assets/css/theme.css.map
+README.md
+install.php
+install_files
