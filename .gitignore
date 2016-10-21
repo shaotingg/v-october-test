@@ -79,6 +79,5 @@ config/database.php
 adminer
 .htaccess
 /themes/vitrima/assets/css/theme.css.map
-README.md
 install.php
 install_files
